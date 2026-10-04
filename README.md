@@ -38,6 +38,3 @@ Future Enhancements
 - Nearby police station locator
 - Emergency contact management
 
-Author
-
-Frontend Mini Project – Women Safety Companion
